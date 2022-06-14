@@ -1,9 +1,7 @@
 let teacher={
-    first_name:"Saurabh",
-    last_name:"shinde",
-    
-
 }
+teacher.first_name="Saurabh",
+teacher.last_name="shinde",
 console.log(teacher);
 
 teacher.degrees={
